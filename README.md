@@ -1,4 +1,4 @@
-# ycs-nguoibandonghanh - my sister project
+# ycs-nguoibandonghanh
 HỌC SINH TRUNG HỌC CƠ SỞ HÃY CÙNG CHUNG TAY PHÒNG - CHỐNG HÀNH VI GÂY HẤN (https://erictra.github.io/ycs-nguoibandonghanh/)
 
 ![image](https://github.com/EricTra/ycs-nguoibandonghanh/assets/92014047/1a2b57f6-7cbd-48da-8004-8f1db69f46c7)
